@@ -141,3 +141,12 @@ dmypy.json
 *.iml
 *.iws
 *.ipr
+
+# RDF N-Quads files
+*.nq
+
+# Pickle files
+*.pkl
+
+# Graphpickle files
+*.gpickle
