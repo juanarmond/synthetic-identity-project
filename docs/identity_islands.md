@@ -15,7 +15,7 @@
    - Edges (relationships) between the base identity and its variations are created. These relationships can be of various types, such as `IDENTITY_EQUIVALENCE`, `INCLUDED_IN`, `CITED_BY`, `IDENTIFIED_THROUGH_BIOMETRICS`, etc.
    - The graph structure represents the interconnectedness of the different identity variations, making it a cohesive island.
 
-![Identity Island](../data/identity_island_visuals/representation_indentity_island.png)
+![Identity Island](../data/identity_island_visuals/representation_identity_island.png)
 
 ## Identity Island With Anomalies
 
@@ -39,4 +39,4 @@ Anomalies are introduced to simulate discrepancies and errors that can occur in 
    - An event (e.g., biometric verification) that does not logically connect to the identities within the island is introduced.
    - Such events might be incorrectly recorded or linked to the wrong person, simulating data integrity issues.
 
-![Identity Island With Anomalies](../data/identity_island_visuals/representation_indentity_island_with_anomalies.png)
+![Identity Island With Anomalies](../data/identity_island_visuals/representation_identity_island_with_anomalies.png)
