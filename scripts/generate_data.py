@@ -260,7 +260,7 @@ class IdentityIslandGenerator:
 
 if __name__ == "__main__":
     generator = IdentityIslandGenerator()
-    generator.generate_identity_islands(num_islands=1000)
+    generator.generate_identity_islands(num_islands=10)
     
     # Save the graph before adding anomalies
     generator.save_graph('./data/synthetic_data/synthetic_identity_islands.gpickle')
